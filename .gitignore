@@ -1,0 +1,26 @@
+# Depende
+ncies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Logs and debug files
+logs/
+*.log
+npm-debug.log*
+
+# Build/compiled files
+dist/
+build/
+*.tmp
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
